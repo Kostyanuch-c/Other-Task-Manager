@@ -1,6 +1,7 @@
 ### Hexlet tests and linter status:
-
+[![Task_manager](https://github.com/Kostyanuch-c/Other-Task-Manager/actions/workflows/Task_manager.yml/badge.svg)](https://github.com/Kostyanuch-c/Other-Task-Manager/actions/workflows/Task_manager.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/185962091c55339b209b/maintainability)](https://codeclimate.com/github/Kostyanuch-c/Other-Task-Manager/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/185962091c55339b209b/test_coverage)](https://codeclimate.com/github/Kostyanuch-c/Other-Task-Manager/test_coverage)
 
 # Task manager
 
